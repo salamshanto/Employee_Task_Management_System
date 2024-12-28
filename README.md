@@ -1,5 +1,9 @@
 # Employee_Task_Management_System
 This is employee task management system in laravel [Web-App_Final_Project].The Employee Management System is a comprehensive and user-friendly application designed to streamline and simplify the process of managing employees within an organization. This system provides an efficient and organized way to handle various employee-related tasks, from onboarding and attendance tracking to performance evaluation.
+
+Key Features:
+-> Secure Login/Logout -> Dashboard/Homepage -> Manage Employee -> Add New Employee -> List Employees -> Edit Employee's Details -> Update Employee's Status -> Delete Employee -> Manage Tasks -> Add Task -> View Tasks -> Delete Tasks -> Manage Task Status [ Active/Inactive ] -> Manage Department List [ CRUD ] -> Manage Admin List [CRUD ] -> Manage Account Credentials
+
 #User Interface
 ![398224665-f9fea2fd-a62e-408c-9a5f-c8d84ec36eb4](https://github.com/user-attachments/assets/dc183d7b-b87e-48c9-a71e-b60466e542e9)
 ![398225101-295f7238-a6d4-47d8-8d8d-44826c004fe4](https://github.com/user-attachments/assets/14be26cc-820f-40d4-b105-deda764eb320)
